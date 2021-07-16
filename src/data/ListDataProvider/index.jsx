@@ -10,7 +10,7 @@ const initialTasks = [
   { name: "PWA", category: "DONE" },
 ];
 
-const list = ["TO DO", "In Progress", " In Review", "DONE"];
+const list = ["TO DO", "In Progress"];
 // const list = [];
 
 const ListDataProvider = ({ children }) => {
